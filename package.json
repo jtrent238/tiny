@@ -5,6 +5,7 @@
   "license": "MIT",
   "repository": "jtrent238/tiny",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "tiny",
     "npm",
